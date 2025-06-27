@@ -1,0 +1,7 @@
+stream-analyser
+tensorflow == 2.16.2
+keras
+sequence
+imdb
+load_model
+tensorflow
