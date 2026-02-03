@@ -5,3 +5,5 @@ nltk
 numpy
 scipy
 pandas
+tensorflow
+
